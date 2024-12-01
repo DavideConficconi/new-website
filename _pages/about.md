@@ -25,7 +25,7 @@ Specifically major topics: (co-)design of **domain-specific systems**, architect
 I am also started investigating _neuromorphic systems_ and _aerospace systems_ where specilization and efficiency are mandatory.
 
 An experiment to better visualize my research can be found [here]() (WIP). 
-Further details of my publications can be found in [Google Scholar profile](https://scholar.google.com/citations?user=Y0VnEtkAAAAJ), my [publications page](/publications/), or this [self-made pdf list](\href{https://raw.githubusercontent.com/DavideConficconi/davideconficconi.github.io/master/publist_dc.pdf) (possibly outdated), or other research profiles in this page.
+Further details of my publications can be found in [Google Scholar profile](https://scholar.google.com/citations?user=Y0VnEtkAAAAJ), my [publications page](/publications/), or this [self-made pdf list](\href{https://raw.githubusercontent.com/DavideConficconi/davideconficconi.github.io/master/assets/pdf/publist_dc.pdf) (possibly outdated), or other research profiles in this page.
 
 
 If you are a motivated student, and curious or already share some of my research interests, feel free to reach out.
