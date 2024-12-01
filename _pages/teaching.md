@@ -28,7 +28,7 @@ At Politecnico di Milano
 * Professor of _Informatica ed Elementi di Informatica Medica_ (IEIM) (Basic of Informatics for Bioengineers) (Bachelor Course) [2023](https://webeep.polimi.it/course/view.php?id=10037)
 
 At CPS Summer School
-* Instructor _Creative Lab_, [2023](), [2022]().
+* Instructor _Creative Lab_, [2023](https://www.cpsschool.eu/creative-lab-2023/), [2022](https://www.cpsschool.eu/previous-editions-cps-summer-school-2022-creative-lab/).
 
 At Cefriel
 * Professor of _Hardware and Accelerators: FPGAs for AI_, Specialization degree (Master universitario di primo livello) <a href="https://learning.cefriel.com/">2022</a> Learning Cefriel platform.
